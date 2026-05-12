@@ -7,6 +7,6 @@
 
 int main() {
     srand(time(NULL));
-    attack(); //ฟังชั่นยิงแรม
+    attack(); //ฟังชั่นให้แรมประมวนผลดีขึ้น
     return 0;
 }
